@@ -23,7 +23,6 @@ body{
 .about-me {
     display: grid;
     grid-template-columns: repeat(2,1fr);
-    text-size-adjust: 12pt;
 }
 
 li{
